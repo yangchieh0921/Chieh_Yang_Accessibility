@@ -1,1 +1,2 @@
-# Chieh_Yang_Accessibility
+# MultiMedia-Accessibility
+Creating audio, movies and tv show accessible for everyone.
